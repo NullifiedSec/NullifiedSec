@@ -92,11 +92,6 @@
 </a>
 
 
-### Some Of My Best Repo's :
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NullifiedSec&repo=raka.sh&theme=highcontrast)](https://github.com/NullifiedSec/raka.sh)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NullifiedSec&repo=httper&theme=highcontrast)](https://github.com/NullifiedSec/httper)
-
-
 ### Some Random Jokes
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
 
